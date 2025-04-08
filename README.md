@@ -60,7 +60,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
- ![altScreenshot 2025-04-08 090523.png text]
+ ![alt text](<Screenshot 2025-04-08 090523.png>)
  ![alt text](<Screenshot 2025-04-08 090523.png>)
 
 
